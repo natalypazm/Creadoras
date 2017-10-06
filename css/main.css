@@ -167,7 +167,8 @@
 
 #header{
   margin-bottom: 0;
-  padding: 30px 0 60px 0;
+  /*padding: 30px 0 60px 0;*/
+  padding-top:10px;
 }
 
 #header .navbar-inverse .container{
@@ -657,6 +658,7 @@ ul.sub-menu {
   vertical-align: middle;
   width: 100%;
   position: statice;
+  background: #de145e;
 }
 
 
@@ -767,7 +769,10 @@ ul.sub-menu {
 #team-carousel {
   margin-top: 80px;
 }
-
+.carousel-inner img{
+  height:542px !important;
+  width:100%;
+}
 #company-information .padding-top{
   padding-top: 172px;
   
