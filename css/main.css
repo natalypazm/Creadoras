@@ -388,10 +388,10 @@ ul.sub-menu {
 
 #footer {
   padding-bottom: 10px;
-  background-image: url(../images/home/footer.png);
+  /*background-image: url(../images/home/footer.png);
   background-repeat: repeat-x;
   background-position: bottom;
-  background-size: contain;
+  background-size: contain;*/
 }
 
 #footer h1{
@@ -658,7 +658,7 @@ ul.sub-menu {
   vertical-align: middle;
   width: 100%;
   position: statice;
-  background: #de145e;
+  background:rgba(222, 20, 94, 0.7);
 }
 
 
@@ -711,12 +711,12 @@ ul.sub-menu {
 }
 
 .single-features .col-sm-6 {
-  margin-top: 50px;
+  /*margin-top: 50px;*/
 }
 
 .single-features:last-child {
-  padding-bottom: 95px;
-  padding-top: 0;
+  /*padding-bottom: 95px;
+  padding-top: 0;*/
 }
 
 .single-features h2{
