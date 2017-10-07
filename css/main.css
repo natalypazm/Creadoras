@@ -24,7 +24,9 @@
     height: 100%;
   }
 
-
+  .fa{
+    padding-bottom:25px;
+  }
   a{
     color:#C03035;
   }
@@ -534,8 +536,9 @@ ul.sub-menu {
 *******Home Page******
 **************************/
 #home-slider {
-  background: url(../images/home/slider-bg.png) 0 100% repeat-x;
+  background-image:url(../images/home/prueba.jpg);
   position: relative;
+  background-color:rgba(0,0,0,0.5);
 }
 
 #home-slider .main-slider {
@@ -681,7 +684,9 @@ ul.sub-menu {
 }
 
 .single-service p {
-  padding: 0 48px;
+  /*padding: 0 48px;*/
+  padding: 0 20px;
+  text-align: justify;
 }
 
 .action h1{
@@ -706,8 +711,9 @@ ul.sub-menu {
 
 .single-features {
   overflow: hidden;
-  padding-top: 65px;
-  padding-bottom: 40px;
+  padding-top:20px;
+  /*padding-top: 65px;
+  padding-bottom: 40px;*/
 }
 
 .single-features .col-sm-6 {
