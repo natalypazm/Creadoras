@@ -435,11 +435,12 @@ ul.sub-menu {
 }
 
 .testimonial .media>.pull-left{
-  margin-right: 25px;
+  /*margin-right: 25px;*/
 }
 
 .testimonial .media>.pull-left img{
-  margin-top: 6px;
+  /*margin-top: 6px;*/
+  margin-top:15px;
 }
 
 .testimonial .media .media-body blockquote{
@@ -781,7 +782,7 @@ ul.sub-menu {
   margin-top: 80px;
 }
 .carousel-inner img{
-  height:542px !important;
+  /*height:542px !important;*/
   width:100%;
 }
 #company-information .padding-top{

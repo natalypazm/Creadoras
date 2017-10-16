@@ -1,0 +1,7 @@
+.linea{
+	text-align: center;
+}
+.linea li{
+	display: inline-block;
+	margin: 0 40px ;
+}
