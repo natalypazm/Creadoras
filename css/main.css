@@ -543,9 +543,7 @@ ul.sub-menu {
 *******Home Page******
 **************************/
 #home-slider {
-  background-image:url(../images/home/prueba.jpg);
-  position: relative;
-  background-color:rgba(0,0,0,0.5);
+  background-image:url(../images/prueba.jpg);
 }
 
 #home-slider .main-slider {
@@ -668,7 +666,7 @@ ul.sub-menu {
   vertical-align: middle;
   width: 100%;
   position: statice;
-  background:rgba(222, 20, 94, 0.7);
+  /*background:rgba(222, 20, 94, 0.7);*/
 }
 
 
@@ -1103,7 +1101,7 @@ ul.elements li > i{
 
 .portfolio-info h2 {
   font-size: 18px;
-  margin: 15px 0 0;
+  /*margin: 15px 0 0;*/
 }
 
 .portfolio-filter {
