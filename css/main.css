@@ -173,9 +173,10 @@
 
 
 #header{
-  margin-bottom: 0;
-  /*padding: 30px 0 60px 0;*/
-  padding-top:10px;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+  position: fixed;
 }
 
 #header .navbar-inverse .container{
@@ -259,9 +260,10 @@
 }
 
 #header .navbar {
-  background: #fff;
+  background-color: rgba(114, 214, 215, 0.8);
   border: 0;
   margin-bottom: 0;
+  padding-top: 10px;
 }
 
 #header .navbar-toggle{
@@ -409,6 +411,7 @@ ul.sub-menu {
 
 #footer .bottom-separator {
   margin-bottom: 60px;
+  border: 1px solid #4fcccd;
 }
 
 #message {
@@ -543,7 +546,9 @@ ul.sub-menu {
 *******Home Page******
 **************************/
 #home-slider {
-  background-image:url(../images/prueba.jpg);
+  background-image:url(../images/creadoras10.png);
+  background-size: cover;
+  background-position:top;
 }
 
 #home-slider .main-slider {
@@ -781,7 +786,6 @@ ul.sub-menu {
   margin-top: 80px;
 }
 .carousel-inner img{
-  /*height:542px !important;*/
   width:100%;
 }
 #company-information .padding-top{

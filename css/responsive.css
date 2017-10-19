@@ -206,7 +206,7 @@
 
   #header {
     padding-bottom: 40px;
-    padding-top: 10px;
+    /*padding-top: 10px;*/
   }
 
   .social-icons.pull-right{
@@ -239,7 +239,8 @@
   }
 
   .navbar.navbar-inverse {
-    margin-top: 20px;
+    /*margin-top: 20px;*/
+    padding-bottom: 10px;
     padding-left: 15px;
     padding-right: 15px;
   }
