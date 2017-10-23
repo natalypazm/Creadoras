@@ -176,7 +176,7 @@
   top: 0;
   z-index: 100;
   width: 100%;
-  position: fixed;
+  position:relative;
 }
 
 #header .navbar-inverse .container{
@@ -546,9 +546,12 @@ ul.sub-menu {
 *******Home Page******
 **************************/
 #home-slider {
-  background-image:url(../images/creadoras10.png);
+  background-image:url(../images/creadoras-home4.jpg);
   background-size: cover;
-  background-position:top;
+  background-position:center;
+}
+#home-slider h2{
+  color: #fff;
 }
 
 #home-slider .main-slider {
@@ -627,10 +630,13 @@ ul.sub-menu {
 #home-slider h1{
   margin-top: 100px;
   margin-bottom: 25px;
+  color: #fff;
 }
 
 #home-slider .btn-common {
   margin-top: 20px;
+  color: #fff;
+  border:1px solid  #fff;
 }
 
 #home-slider .preloader {
