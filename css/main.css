@@ -704,7 +704,10 @@ ul.sub-menu {
   padding: 0 20px;
   text-align: justify;
 }
-
+#services .single-service ul{
+    list-style-type: circle;
+    text-align: left;
+}
 .action h1{
   margin-top: 0;
 }
@@ -800,7 +803,8 @@ ul.sub-menu {
 }
 
 .single-service img {
-  height: 85px;
+  /*height: 85px;*/
+  height: 200px;
 }
 
 .tour-button {
