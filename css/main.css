@@ -677,7 +677,7 @@ ul.sub-menu {
   vertical-align: middle;
   width: 100%;
   position: statice;
-  /*background:rgba(222, 20, 94, 0.7);*/
+  background:rgba(0,0,0,0.1);
 }
 
 
@@ -1531,15 +1531,19 @@ Blog Default
   position: relative;
   padding-bottom: 0;
 }
-
-.timeline .post-content {
-  padding: 20px 20px 0;
+.padding-right .single-blog.timeline{
+  text-align: -webkit-right;
 }
+/*.timeline .post-content {
+  padding: 20px 20px 0;
+}*/
 
 .post-thumb{
   margin: -1px -1px 0;
   position: relative;
   overflow: hidden;
+
+  width: 300px;
 }
 
 .timeline .post-thumb img {
@@ -1616,7 +1620,8 @@ Blog Default
 }
 
 .timeline-blog .col-sm-6.padding-top{
-  padding-top: 70px;
+  /*padding-top: 70px;*/
+  padding-top: 40px;
 }
 
 .post-content{
