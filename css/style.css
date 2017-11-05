@@ -9,6 +9,9 @@
 	font-size: 70px;
 	text-align: center;
 }
+.valores, #services, #feature-container{
+	margin: 70px 0;
+}
 .valores .portfolio-wrapper, .valores .portfolio-single{
 	text-align: center;
 }
@@ -32,5 +35,8 @@
 	margin-top: 30px;
 }
 .carousel-inner{
-	height: 662px;
+	height: 570px;
+}
+.page-header{
+	border-bottom:0 !important;
 }
