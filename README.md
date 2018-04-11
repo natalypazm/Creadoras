@@ -1,6 +1,6 @@
 # Website Creadoras
 En esta página encontrará toda información del emprendimiento social.
-https://user-images.githubusercontent.com/22941046/38590353-40559364-3cf6-11e8-85ef-48463cf26d20.png
+![bicis-locas-preview](https://user-images.githubusercontent.com/25912796/36161834-ac354784-10b2-11e8-8e2b-e3ed6eaaa4c0.png)
 # Desarrollado para
 Creadoras
 
